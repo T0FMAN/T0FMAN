@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5iYTY1OTQzcHR3anoxanhpNzBrcWpuZGgxd2VucWE4bWM1a2FxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="100"/>
+</div>
+
 <!--
 **T0FMAN/T0FMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
