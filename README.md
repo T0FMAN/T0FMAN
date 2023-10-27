@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -8,18 +8,10 @@
   </a>
 </div>
 
-<h1 align="center">
-  And what have you forgotten here? :)
-</h1>
-
-<div id="banner" align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
-</div>
-
 ---
 
 ### :woman_technologist: About Me :
-Backend (some fullstack) Developer from unknow place)
+Backend (some fullstack) developer from unknow place)
 
 ---
 
